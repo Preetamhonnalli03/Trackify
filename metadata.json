@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trackify IoT Asset Tracker",
+  "description": "A comprehensive IoT asset tracking dashboard featuring real-time maps, speed monitoring, SOS alerts, and smart power management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
